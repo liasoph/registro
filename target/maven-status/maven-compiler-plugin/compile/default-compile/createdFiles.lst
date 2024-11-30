@@ -1,6 +1,10 @@
 registro\Persistence\Repository\ConductorRepository.class
 registro\Persistence\entity\Conductor.class
 registro\Config\SecurityConfig.class
+registro\controller\ConductorController.class
 registro\RegistroApplication.class
 registro\Persistence\Repository\VehiculoRepository.class
+registro\Service\ConductorService.class
+registro\controller\VehiculoController.class
 registro\Persistence\entity\Vehiculo.class
+registro\Service\VehiculoService.class
