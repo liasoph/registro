@@ -1,0 +1,6 @@
+registro\Persistence\Repository\ConductorRepository.class
+registro\Persistence\entity\Conductor.class
+registro\Config\SecurityConfig.class
+registro\RegistroApplication.class
+registro\Persistence\Repository\VehiculoRepository.class
+registro\Persistence\entity\Vehiculo.class
